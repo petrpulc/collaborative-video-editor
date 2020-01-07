@@ -1,0 +1,5 @@
+body {padding-top: 60px;}
+table input {width: 100%;}
+div.linewrap {position: relative; height: 2px; width: 100%;}
+div.linewrap div {position: absolute; height: 2px;}
+input {float:right;}
